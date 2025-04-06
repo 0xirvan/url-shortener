@@ -1,0 +1,1 @@
+DROP Table IF EXISTS short_urls;
